@@ -1,0 +1,15 @@
+@media (max-width: 265px) {
+	h3#body {
+		font-size: 10px;
+	}
+ }
+@media (min-width: 266px) {
+	h3#body {
+		font-size: 16px;
+	}
+ }
+@media (min-width: 400px) {
+	h3#body {
+		font-size: 20px;
+	}
+}
