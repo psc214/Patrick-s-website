@@ -1,0 +1,27 @@
+div.card-body {
+	background-color: grey;
+}
+div.card-header {
+	background-color: #89d2e6;
+	color: #003a5c;
+}
+button.btn {
+	background-color: #89d2e6;
+}
+
+@media (max-width: 400px) {
+	h4, h6, p {
+		font-size: 10px;		
+	}
+ }
+@media (min-width: 401px) {
+	h4, h6, p {
+		font-size: 12px;		
+	}
+ }
+@media (min-width: 768px) {
+
+	h4, h6, p {
+		font-size: 22px;		
+	}
+ }
